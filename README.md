@@ -1,2 +1,2 @@
 # Stackotaire
-A Solitaire game using the Java Stack API
+A Solitaire game using the Java Stack API.
